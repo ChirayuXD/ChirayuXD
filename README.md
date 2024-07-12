@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16B52A&random=false&width=435&lines=Aspiring+Software+Engineer;Machine+Learning+Enthusiast;Data+Science+buff;Interested+in+Web+Development;AI+enthusiast)](https://git.io/typing-svg)
+
 # 👋 Hi I am Chirayu:
 👨🏾‍💻Aspiring software engineer<br>🧑🏾‍🎓Studying Computer science at Shiv Nadar University<br>🤖Passionate about Machine learning, Data Science and Artificial Intelligence<br>🔭Interested in collaborating on projects on AI and ML<br>💫Passionate about emerging technologies and leveraging them to solve real world problems
 
